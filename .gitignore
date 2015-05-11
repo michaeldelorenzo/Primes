@@ -1,0 +1,9 @@
+.rvmrc
+.rbenv-version
+.ruby-version
+.bundle
+tmp/
+.idea
+.idea/*.*
+.DS_Store
+_DS_Store
