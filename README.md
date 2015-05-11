@@ -29,3 +29,9 @@ $ rspec primes_spec.rb
 Finished in 0.00205 seconds
 11 examples, 0 failures
 ```
+
+## Dependencies
+Primes requires the following gems to be available:
+
+- [rspec]()
+- [terminal-table]()
