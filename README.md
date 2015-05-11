@@ -33,5 +33,5 @@ Finished in 0.00205 seconds
 ## Dependencies
 Primes requires the following gems to be available:
 
-- [rspec]()
-- [terminal-table]()
+- [rspec](rubygems.org/gems/rspec)
+- [terminal-table](rubygems.org/gems/terminal-table)
