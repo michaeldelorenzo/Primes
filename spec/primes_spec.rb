@@ -1,5 +1,4 @@
-require File.expand_path("../../primes.rb", __FILE__)
-
+require File.join(File.dirname(__FILE__), '/../lib/primes')
 require 'rspec'
 require 'prime'
 

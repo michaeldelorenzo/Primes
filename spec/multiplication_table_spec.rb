@@ -1,5 +1,4 @@
-require File.expand_path("../../multiplication_table.rb", __FILE__)
-
+require File.join(File.dirname(__FILE__), '/../lib/multiplication_table')
 require 'rspec'
 
 describe 'Multiplication Table' do

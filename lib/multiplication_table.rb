@@ -1,4 +1,4 @@
-require './primes'
+require File.join(File.dirname(__FILE__), '/../lib/primes')
 require 'terminal-table'
 
 def print_multiplication_table(num_of_values, seed = 2)

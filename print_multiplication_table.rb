@@ -1,4 +1,5 @@
-require './multiplication_table'
+
+require './lib/multiplication_table'
 
 if ARGV[0].nil?
   raise ArgumentError, 'You must specify the number of prime numbers to generate.'
