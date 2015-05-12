@@ -73,3 +73,6 @@ Primes requires the following gems to be available:
 
 - [rspec](rubygems.org/gems/rspec)
 - [terminal-table](rubygems.org/gems/terminal-table)
+
+## Copyright and license
+Code and documentation copyright 2015 Michael De Lorenzo. Code released under the [MIT license](https://github.com/michaeldelorenzo/Primes/blob/master/LICENSE).
